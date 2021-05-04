@@ -1,0 +1,22 @@
+SMAP
+MyMenu_jsp.java
+JSP
+*S JSP
+*F
++ 0 MyMenu.jsp
+MyMenu.jsp
++ 1 menunav.jsp
+menunav.jsp
++ 2 footer.jsp
+footer.jsp
+*L
+1,6:50
+1#1,13:56
+6#0,3:69
+8:71,2
+9,10:73
+19:83,3
+20,10:86
+1#2,85:96
+29#0,6:181
+*E
